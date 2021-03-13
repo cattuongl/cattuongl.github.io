@@ -1,5 +1,5 @@
-.heading1 {
-    font-family: "Shippori Mincho";
+h1 {
+    font-family: "Roboto";
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,17 +10,143 @@
     width: 100%;
     height: 100px;
 }
-
-.subheading {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 100px;
-    color:skyblue;
-    font-size: 24px;
+div.box{
+    text-align: center;
+    height: 170px;
+    
 }
 
-.another-subheading {
-    display: flex;
-    text-align: center;
+h2{
+    font-family: "Roboto";
+    color:rgb(56, 102, 201);
+    text-align: left;
+    font-size: 24px;
+    width: 50%;
+    height: 25px;
+    
+}
+
+p{
+    font-family: "Roboto";
+    color:rgb(12, 8, 8);
+    font-size: 13px;
+    width: 50%;
+    height: 5px;
+}
+
+li{
+    font-family: "Roboto";
+    color:rgb(12, 8, 8);
+    font-size: 13px;
+    width: 65%;
+    height: 30px;
+}
+
+h3{
+    font-family: "Roboto";
+    color:rgb(56, 102, 201);
+    text-align: left;
+    font-size: 24px;
+    width: 50%;
+    height: 10px;
+}
+h4{
+    font-family: "Roboto";
+    color:rgb(56, 102, 201);
+    text-align: left;
+    font-size: 24px;
+    width: 50%;
+    height: 25px;
+}
+
+h5{
+    font-family: "Roboto";
+    color:rgb(56, 102, 201);
+    text-align: left;
+    font-size: 24px;
+    width: 50%;
+    height: 25px;
+}
+
+h6{
+    font-family: "Roboto";
+    color:rgb(56, 102, 201);
+    text-align: left;
+    font-size: 24px;
+    width: 50%;
+    height: 25px;
+}
+div.awards{
+    width: 50%;
+    height: 20px;
+}
+
+div.H_award{
+    width: 50%;
+    height: 20px;
+}
+
+div.H_EA{
+    width: 50%;
+    height: 20px;
+}
+div.Comp_swim{
+    width: 50%;
+    height: 90px;
+}
+div.H_Education{
+    width: 50%;
+    height: 20px;
+}
+
+div.H_research{
+    width: 50%;
+    height: 20px;
+}
+
+div.H_Volunteer{
+    width: 50%;
+    height: 20px;
+}
+
+body{
+    background: rgb(177, 191, 206);
+}
+div.BSc{
+    width: 50%;
+    height: 50px;
+}
+
+div.award1{
+    width: 50%;
+    height: 30px;
+}
+div.award2{
+    width: 50%;
+    height: 30px;
+}
+div.award3{
+    width: 50%;
+    height: 30px;
+}
+div.award4{
+    width: 50%;
+    height: 30px;
+}
+div.award5{
+    width: 50%;
+    height: 50px;
+}
+div.H_Interest{
+    font-family: "Roboto";
+    color:rgb(56, 102, 201);
+    text-align: left;
+    font-size: 24px;
+    width: 50%;
+    height: 20px;
+
+}
+div.baking{
+    width: 50%;
+    height: 5px;
 }
